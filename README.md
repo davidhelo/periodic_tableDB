@@ -1,1 +1,1 @@
-Periodic table project from FCC
+Periodic table project excercise from FCC
